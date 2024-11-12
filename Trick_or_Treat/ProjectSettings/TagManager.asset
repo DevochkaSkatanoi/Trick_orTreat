@@ -9,6 +9,9 @@ TagManager:
   - Carrot
   - Killbox
   - Interactable
+  - QorX
+  - EorY
+  - TorB
   layers:
   - Default
   - TransparentFX
