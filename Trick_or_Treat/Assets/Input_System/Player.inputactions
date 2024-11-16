@@ -24,7 +24,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Shift",
+                    "name": "Dash",
                     "type": "Button",
                     "id": "43ee6d29-ed8f-4fe3-957c-f6436d5d788b",
                     "expectedControlType": "Button",
@@ -149,7 +149,18 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Shift",
+                    "action": "Dash",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7887de5b-3709-40ec-ae7f-359be131f6c5",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Dash",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },

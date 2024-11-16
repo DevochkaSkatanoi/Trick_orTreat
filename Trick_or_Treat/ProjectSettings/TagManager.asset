@@ -13,6 +13,7 @@ TagManager:
   - EorY
   - TorB
   - Ground
+  - Forest
   layers:
   - Default
   - TransparentFX

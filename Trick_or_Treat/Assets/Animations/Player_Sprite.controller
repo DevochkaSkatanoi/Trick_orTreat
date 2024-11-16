@@ -17,10 +17,10 @@ AnimatorStateMachine:
     m_Position: {x: 300, y: 180, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2827276658004716664}
-    m_Position: {x: 620, y: 120, z: 0}
+    m_Position: {x: 670, y: 110, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5485625078359759496}
-    m_Position: {x: 595, y: -5, z: 0}
+    m_Position: {x: 600, y: -10, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 326764265123336809}
     m_Position: {x: 570, y: 340, z: 0}
@@ -186,12 +186,6 @@ AnimatorController:
   m_AnimatorParameters:
   - m_Name: speedX
     m_Type: 1
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: IsRunning
-    m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
