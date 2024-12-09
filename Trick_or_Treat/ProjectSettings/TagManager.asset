@@ -14,11 +14,14 @@ TagManager:
   - TorB
   - Ground
   - Forest
+  - Cone
+  - Hiden
+  - Mud
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -71,6 +74,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1828466971
+    locked: 0
+  - name: Transition
+    uniqueID: 643176081
     locked: 0
   - name: Player
     uniqueID: 593005739
