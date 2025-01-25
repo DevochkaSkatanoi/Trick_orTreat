@@ -17,6 +17,12 @@ TagManager:
   - Cone
   - Hiden
   - Mud
+  - Berries
+  - Butter
+  - Eggs
+  - Flour
+  - Milk
+  - Ingredients
   layers:
   - Default
   - TransparentFX
