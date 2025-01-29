@@ -60,6 +60,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Dark Ground
+    uniqueID: 1602467811
+    locked: 0
   - name: Sky
     uniqueID: 4120037989
     locked: 0

@@ -231,7 +231,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 12292f7c39524624b94ad997dcbea294, type: 2}
+    - {fileID: 11400000, guid: 5a6f1c8402e4d6a43b7973765207bc5c, type: 2}
 --- !u!1 &6237237822778021967
 GameObject:
   m_ObjectHideFlags: 0
