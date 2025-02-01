@@ -29,19 +29,17 @@ MonoBehaviour:
   prefabsData:
     enabled: 1
     prefabs:
-    - gameObject: {fileID: 4568249183204167093, guid: 185494576af8a64458e176409236fce2,
-        type: 3}
-      color: {r: 0.8301887, g: 0.8301887, b: 0.8301887, a: 0.15686275}
-    - gameObject: {fileID: 2711216198116367235, guid: ea5291617d7042c48a75064bda750b76,
-        type: 3}
+    - gameObject: {fileID: 3042416848696496440, guid: 40e213dc82161b146beeb137f237bf96, type: 3}
+      color: {r: 0.29636872, g: 0.5620823, b: 0.6981132, a: 0.15686275}
+    - gameObject: {fileID: 2711216198116367235, guid: ea5291617d7042c48a75064bda750b76, type: 3}
       color: {r: 0.64114827, g: 1, b: 0.34449756, a: 0.14901961}
   alternatingBackground:
     enabled: 1
-    color: {r: 0, g: 0, b: 0, a: 0.08}
+    color: {r: 0, g: 0, b: 0, a: 0.16470589}
   separator:
     enabled: 1
-    startString: '>'
-    color: {r: 0, g: 1, b: 1, a: 0.15}
+    startString: =
+    color: {r: 0.26148084, g: 0.33672154, b: 0.7106918, a: 0.34509805}
   tree:
     enabled: 1
     drawOverlayOnColoredPrefabs: 1
