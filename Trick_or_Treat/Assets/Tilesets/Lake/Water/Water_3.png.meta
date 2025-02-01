@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 408c05b3f51fd7348932a7cccc754388
+guid: b73e4b74de5ee4e4b89074f1ef209557
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,64 +97,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Big_cone_0
+      name: Water_3_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 0
-        width: 11
-        height: 11
+        x: 0
+        y: 25
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf50b81ca307aa24385a25dc42158019
-      internalID: -1011040131
+      spriteID: 30cd3f5b226955448ab57bdc839c7232
+      internalID: 542567789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big_cone_1
+      name: Water_3_1
       rect:
         serializedVersion: 2
-        x: 13
-        y: 0
-        width: 11
-        height: 11
+        x: 25
+        y: 25
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52a54330bef230347be4c1a15776baa4
-      internalID: -981890108
+      spriteID: 0305b65e41bfc0942811ea3dae9ff1cd
+      internalID: 930485364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big_cone_2
+      name: Water_3_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b619146ca5f3864bb11a3d133378c49
+      internalID: -1355074361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_3_3
       rect:
         serializedVersion: 2
         x: 25
         y: 0
-        width: 11
-        height: 11
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0711c00b9272548459ea9c204b7cd6ee
-      internalID: -414794460
+      spriteID: 550aff0460c9684489dc1a270bbacd99
+      internalID: 1081395815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_3_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e94b773ecd56341a0ea5c22e7b476e
+      internalID: -19084447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_3_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df05204873d1747b9682a404c969ba
+      internalID: -1281636052
       vertices: []
       indices: 
       edges: []
@@ -170,9 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Big_cone_0: -1011040131
-      Big_cone_1: -981890108
-      Big_cone_2: -414794460
+      Water_3_0: 542567789
+      Water_3_1: 930485364
+      Water_3_2: -1355074361
+      Water_3_3: 1081395815
+      Water_3_4: -19084447
+      Water_3_5: -1281636052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

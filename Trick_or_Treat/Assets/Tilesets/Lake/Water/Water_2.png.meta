@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 408c05b3f51fd7348932a7cccc754388
+guid: 8fa87d1a200ff9f40a21029615751578
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,64 +97,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Big_cone_0
+      name: Water_2_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 11
-        height: 11
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf50b81ca307aa24385a25dc42158019
-      internalID: -1011040131
+      spriteID: 91253b3205b18724a96d7da247ec0e9c
+      internalID: 325646843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big_cone_1
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 0
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52a54330bef230347be4c1a15776baa4
-      internalID: -981890108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Big_cone_2
+      name: Water_2_1
       rect:
         serializedVersion: 2
         x: 25
         y: 0
-        width: 11
-        height: 11
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0711c00b9272548459ea9c204b7cd6ee
-      internalID: -414794460
+      spriteID: d4b3807b057ef934cac28c66203a1c86
+      internalID: -1838817353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_2_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7139e3618f6d08f42a6e0c102251083c
+      internalID: -608172109
       vertices: []
       indices: 
       edges: []
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Big_cone_0: -1011040131
-      Big_cone_1: -981890108
-      Big_cone_2: -414794460
+      Water_2_0: 325646843
+      Water_2_1: -1838817353
+      Water_2_2: -608172109
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

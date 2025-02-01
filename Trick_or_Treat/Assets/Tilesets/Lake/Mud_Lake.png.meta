@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 408c05b3f51fd7348932a7cccc754388
+guid: 38d24d2e2e878e24491946bb2314ef48
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,64 +97,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Big_cone_0
+      name: Mud_Lake_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 11
-        height: 11
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf50b81ca307aa24385a25dc42158019
-      internalID: -1011040131
+      spriteID: 35d18ac42ca12e14d97e06f12e6c7c2b
+      internalID: -1582183906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Big_cone_1
-      rect:
-        serializedVersion: 2
-        x: 13
-        y: 0
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52a54330bef230347be4c1a15776baa4
-      internalID: -981890108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Big_cone_2
+      name: Mud_Lake_1
       rect:
         serializedVersion: 2
         x: 25
         y: 0
-        width: 11
-        height: 11
+        width: 25
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0711c00b9272548459ea9c204b7cd6ee
-      internalID: -414794460
+      spriteID: fa163123ddcd94b40b0fb81465f19160
+      internalID: 1152679752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mud_Lake_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d63975b9f39e409fb827cee961975
+      internalID: -990702150
       vertices: []
       indices: 
       edges: []
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Big_cone_0: -1011040131
-      Big_cone_1: -981890108
-      Big_cone_2: -414794460
+      Mud_Lake_0: -1582183906
+      Mud_Lake_1: 1152679752
+      Mud_Lake_2: -990702150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
