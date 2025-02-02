@@ -60,26 +60,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 835077011
+    locked: 0
   - name: Dark Ground
     uniqueID: 1602467811
     locked: 0
-  - name: Sky
-    uniqueID: 4120037989
-    locked: 0
-  - name: Trees1
-    uniqueID: 1473250961
-    locked: 0
-  - name: Trees2
-    uniqueID: 402558281
-    locked: 0
-  - name: Trees3
-    uniqueID: 1993806713
-    locked: 0
-  - name: Sun
-    uniqueID: 1638294919
-    locked: 0
-  - name: Trees4
-    uniqueID: 1790935583
+  - name: Objects
+    uniqueID: 3049570237
     locked: 0
   - name: Ground
     uniqueID: 1828466971
